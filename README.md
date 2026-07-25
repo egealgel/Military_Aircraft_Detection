@@ -14,6 +14,10 @@ A YOLOv8-based object detection system for identifying military aircraft from im
 
 
 
+https://github.com/user-attachments/assets/1f88152c-023d-47ae-ac2a-3ef2fbce6a4e
+
+
+
 
 <img width="1200" height="800" alt="a10" src="https://github.com/user-attachments/assets/653ec244-47b4-41d1-9060-27c99603d979" />
 
