@@ -11,6 +11,15 @@ A YOLOv8-based object detection system for identifying military aircraft from im
 | **Web Interface**   | Gradio                                    |
 | **Dataset**         | Kaggle - MilitaryAircraftDetectionDataset |
 
+
+
+
+
+<img width="1200" height="800" alt="a10" src="https://github.com/user-attachments/assets/653ec244-47b4-41d1-9060-27c99603d979" />
+
+
+
+
 ## 🚀 Quick Start
 
 ### 1. Train the Model (Colab Pro)
