@@ -88,8 +88,8 @@ correctly, covering a wide range including:
 - **Image Size**: 640×640
 - **Epochs**: 100 (with early stopping)
 - **Batch Size**: 16
-- **Hardware**: Google Colab Pro (NVIDIA T4/P100)
-- **Training Time**: ~1-3 hours
+- **Hardware**: Google Colab Pro (NVIDIA A100 GPU)
+- **Training Time**: ~5 hours
 
 ## 🔧 Dependencies
 
@@ -99,17 +99,6 @@ correctly, covering a wide range including:
 - opencv-python-headless>=4.9.0
 - Pillow>=10.0.0
 - numpy>=1.24.0
-
-## 🤝 Deployment
-
-The Gradio app can be deployed on:
-
-- **Local**: Run `python gradio_app.py`
-- **HuggingFace Spaces**: Upload to [HuggingFace Spaces](https://huggingface.co/spaces) for free hosting with GPU
-
-## 📝 License
-
-This project is for educational and research purposes only.
 
 ## 🙏 Acknowledgments
 
