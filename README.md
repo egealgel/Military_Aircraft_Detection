@@ -1,8 +1,8 @@
-# 🛩️ Military Aircraft Recognition
+#  Military Aircraft Recognition
 
 A YOLOv8-based object detection system for identifying military aircraft from images and videos. Trained on the [MilitaryAircraftDetectionDataset](https://www.kaggle.com/datasets/a2015003713/militaryaircraftdetectiondataset) from Kaggle.
 
-## 📋 Project Overview
+##  Project Overview
 
 | Component           | Technology                                |
 | ------------------- | ----------------------------------------- |
@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/1f88152c-023d-47ae-ac2a-3ef2fbce6a4e
 
 
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Train the Model (Colab Pro)
 
@@ -55,7 +55,7 @@ python gradio_app.py
 
 Open your browser at **http://localhost:7860**
 
-## 🎯 Features
+##  Features
 
 - **Image Detection**: Upload images (.jpg, .jpeg, .png) for aircraft detection
 - **Video Detection**: Upload videos (.mp4, .avi, .mov) for frame-by-frame analysis
@@ -63,7 +63,7 @@ Open your browser at **http://localhost:7860**
 - **Frame Skip**: Skip frames in video for faster processing
 - **Detection Summary**: Real-time summary of detected aircraft types and confidence scores
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 military_aircraft_recognition/
@@ -79,7 +79,7 @@ military_aircraft_recognition/
 └── README.md
 ```
 
-## 🧠 Supported Aircraft Types
+##  Supported Aircraft Types
 
 The model is trained on the [MilitaryAircraftDetectionDataset](https://www.kaggle.com/datasets/a2015003713/militaryaircraftdetectiondataset)
 which contains **100+ different military aircraft types**. All class names are
@@ -95,7 +95,7 @@ correctly, covering a wide range including:
 - **Transport & Tanker**: C-130 Hercules, C-17 Globemaster, C-5 Galaxy, KC-10 Extender, KC-135 Stratotanker
 - **Reconnaissance & Other**: E-2 Hawkeye, U-2 Dragon Lady, and many more
 
-## 📊 Training Details
+##  Training Details
 
 - **Base Model**: `yolov8m.pt` (medium)
 - **Image Size**: 640×640
@@ -104,7 +104,7 @@ correctly, covering a wide range including:
 - **Hardware**: Google Colab Pro (NVIDIA A100 GPU)
 - **Training Time**: ~5 hours
 
-## 🔧 Dependencies
+##  Dependencies
 
 - Python 3.9+
 - ultralytics>=8.3.0
@@ -113,7 +113,7 @@ correctly, covering a wide range including:
 - Pillow>=10.0.0
 - numpy>=1.24.0
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Dataset: [MilitaryAircraftDetectionDataset](https://www.kaggle.com/datasets/a2015003713/militaryaircraftdetectiondataset) on Kaggle
 - Framework: [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
