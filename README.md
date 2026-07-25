@@ -7,7 +7,7 @@ A YOLOv8-based object detection system for identifying military aircraft from im
 | Component           | Technology                                |
 | ------------------- | ----------------------------------------- |
 | **Detection Model** | Ultralytics YOLOv8                        |
-| **Training**        | Google Colab Pro (GPU: T4/P100)           |
+| **Training**        | Google Colab Pro (GPU: A100)           |
 | **Web Interface**   | Gradio                                    |
 | **Dataset**         | Kaggle - MilitaryAircraftDetectionDataset |
 
