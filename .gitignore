@@ -1,0 +1,32 @@
+# Model weights (large files)
+app/models/best.pt
+app/models/*.pt
+app/models/*.onnx
+app/models/outputs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.egg-info/
+
+# Virtual env
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Colab
+.colab/
+
+# Test videos
+*.mp4
+*.avi
+*.mov
+*.webm
