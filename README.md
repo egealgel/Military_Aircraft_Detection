@@ -14,7 +14,7 @@ A YOLOv8-based object detection system for identifying military aircraft from im
 
 
 https://youtu.be/ALHd1C4-gx4
-https://github.com/user-attachments/assets/1f88152c-023d-47ae-ac2a-3ef2fbce6a4e
+
 
 
 
